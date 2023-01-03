@@ -2,7 +2,7 @@
 Android app that connect through USB to raspberry pi pico and turn on the on board LED light by a click of a button
 
 Intro
-During this assignment I developed a native android app written in Kotlin and a C++ for the Raspberry pi pico,
+During this project I developed a native android app written in Kotlin and a C++ for the Raspberry pi pico,
 The application needs to send data through USB to control the raspberry pi pico and turn its built-in light ON/OFF. 
 In this application the android device is using host mode and the Raspberry is the accessory 
  
